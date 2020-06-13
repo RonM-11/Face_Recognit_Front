@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Face_Recognit_Front/static/css/main.b2aee1ee.chunk.css",
+    "main.js": "/Face_Recognit_Front/static/js/main.a1e76232.chunk.js",
+    "main.js.map": "/Face_Recognit_Front/static/js/main.a1e76232.chunk.js.map",
+    "runtime-main.js": "/Face_Recognit_Front/static/js/runtime-main.e88b7beb.js",
+    "runtime-main.js.map": "/Face_Recognit_Front/static/js/runtime-main.e88b7beb.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Face_Recognit_Front/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.2b5adc06.chunk.js": "/Face_Recognit_Front/static/js/2.2b5adc06.chunk.js",
+    "static/js/2.2b5adc06.chunk.js.map": "/Face_Recognit_Front/static/js/2.2b5adc06.chunk.js.map",
+    "index.html": "/Face_Recognit_Front/index.html",
+    "precache-manifest.c44b4f1558079a89a69b4a432fef29ed.js": "/Face_Recognit_Front/precache-manifest.c44b4f1558079a89a69b4a432fef29ed.js",
+    "service-worker.js": "/Face_Recognit_Front/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Face_Recognit_Front/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.b2aee1ee.chunk.css.map": "/Face_Recognit_Front/static/css/main.b2aee1ee.chunk.css.map",
+    "static/js/2.2b5adc06.chunk.js.LICENSE.txt": "/Face_Recognit_Front/static/js/2.2b5adc06.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e88b7beb.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.2b5adc06.chunk.js",
+    "static/css/main.b2aee1ee.chunk.css",
+    "static/js/main.a1e76232.chunk.js"
+  ]
+}
