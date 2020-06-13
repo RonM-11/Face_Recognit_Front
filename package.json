@@ -2,12 +2,14 @@
   "name": "face_recognit",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://ronm-11.github.io/Face_Recognit_Front",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "clarifai": "^2.9.1",
     "cors": "^2.8.5",
+    "gh-pages": "^3.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-particles-js": "^3.2.1",
@@ -18,7 +20,10 @@
     "tachyons": "^4.12.0",
     "tilt.js": "^1.2.1"
   },
+
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
